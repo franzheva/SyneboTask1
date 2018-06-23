@@ -1,0 +1,6 @@
+G:\SyneboTask1\SyneboTask1\bin\Debug\SyneboTask1.exe.config
+G:\SyneboTask1\SyneboTask1\obj\Debug\SyneboTask1.csprojResolveAssemblyReference.cache
+G:\SyneboTask1\SyneboTask1\bin\Debug\SyneboTask1.exe
+G:\SyneboTask1\SyneboTask1\bin\Debug\SyneboTask1.pdb
+G:\SyneboTask1\SyneboTask1\obj\Debug\SyneboTask1.exe
+G:\SyneboTask1\SyneboTask1\obj\Debug\SyneboTask1.pdb
